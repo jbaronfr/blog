@@ -1,7 +1,7 @@
 ---
 title: "TIL: Setup a blog with Minimal Mistakes through GitHub Templates"
 categories:
-  - Blog
+  - TIL
 tags:
   - link
   - Minimal Mistakes
