@@ -1,5 +1,6 @@
 ---
 title: "TIL: Setup a blog with Minimal Mistakes through GitHub Templates"
+date: 2020-05-18
 categories:
   - Blog
 tags:
