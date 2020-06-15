@@ -6,6 +6,6 @@ tags:
   - Flickr
   - Redirect
 link: https://www.flickr.com/photos/baronj30
-permalink: /ttl
+permalink: /flickr
 redirect_to: https://www.flickr.com/photos/baronj30
 ---
